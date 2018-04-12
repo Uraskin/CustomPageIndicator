@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageIndicatorView">
+        <attr name="pi_page_count" format="integer"/>
+        <attr name="pi_radius_active" format="dimension"/>
+        <attr name="pi_radius_non_active" format="dimension"/>
+        <attr name="pi_color_active" format="color"/>
+        <attr name="pi_color_non_active" format="color"/>
+    </declare-styleable>
+</resources>
